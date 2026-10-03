@@ -195,4 +195,3 @@ Percentage: 40%
 
 ![UML class diagram](Examination_System___UML.drawio.png)
 
-The editable version is [`Examination_System___UML.drawio`](Examination_System___UML.drawio) (open it with [draw.io](https://app.diagrams.net)).
